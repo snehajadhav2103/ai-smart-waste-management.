@@ -1,0 +1,9 @@
+Date,Area,Waste Type,Weight (kg),Recycled (kg)
+2026-01-05,North,Organic,120,25
+2026-01-12,South,Plastic,75,50
+2026-01-19,East,Paper,48,38
+2026-01-26,West,Metal,32,28
+2026-02-02,North,Plastic,82,56
+2026-02-09,South,Organic,135,30
+2026-02-16,East,Metal,38,34
+2026-02-23,West,Paper,52,43
